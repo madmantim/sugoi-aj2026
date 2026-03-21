@@ -1,4 +1,4 @@
-const CACHE = 'sugoi-deck-v3';
+const CACHE = 'sugoi-deck-v4';
 const ASSETS = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
